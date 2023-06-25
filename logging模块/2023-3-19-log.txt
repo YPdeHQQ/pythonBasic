@@ -1,0 +1,4 @@
+redballoon   | 2023-03-18 12:34:58 INFO demo.py:182 >>> 这是一条正常信息
+redballoon   | 2023-03-18 12:34:58 WARNING demo.py:183 >>> 这是一条警告信息
+redballoon   | 2023-03-18 12:34:58 ERROR demo.py:184 >>> 这是一条错误信息
+redballoon   | 2023-03-18 12:34:58 CRITICAL demo.py:185 >>> 这是一条致命的错误信息

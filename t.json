@@ -1,0 +1,13 @@
+{
+  "name": "小王",
+  "age": 18,
+  "gender": true,
+  "grade": null,
+  "skills": [
+    "javascript",
+    "java",
+    "css",
+    "python",
+    "c++"
+  ]
+}

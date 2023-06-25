@@ -1,0 +1,4 @@
+INFO:root:输出的信息...
+WARNING:root:warning！
+ERROR:root:出现错误！
+CRITICAL:root:严重错误！
